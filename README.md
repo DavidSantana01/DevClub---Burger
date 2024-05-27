@@ -2,7 +2,7 @@
 <br>
 <p>Projeto site de uma hambúrgueria!</p>
 <div>
-    <img src="./burgerWebsite.png" alt="Foto-burger-website">
+    <img src="./img/burgerWebsite.png" alt="Foto-burger-website">
 </div>
 <br>
 <h2>Tecnologias usadas</h2>
